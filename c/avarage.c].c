@@ -12,5 +12,5 @@ int main(void) {
     average = sum / 25;
     printf("Average exam score: %d\n", average);
 
-    return 0;
+Â Â Â Â returnÂ 0;
 }
